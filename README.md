@@ -43,18 +43,6 @@ Bem-vindo à **Reserva Canhambora**, uma reserva particular localizada no bairro
 
 ---
 
-##  Dicas Extras para enriqueçer este README
-
-Se desejar tornar esse arquivo ainda mais completo, considere adicionar:
-
-- **Como reservar:** processo, formas de pagamento e políticas de cancelamento.
-- **Logística:** orientações de como chegar, dicas sobre hospedagem, alimentação e o que levar nas trilhas.
-- **Galeria de fotos:** imagens de cavernas, cachoeiras e paisagens da reserva.
-- **Perguntas frequentes (FAQ):** nível de dificuldade das trilhas, segurança, idade mínima, etc.
-- **Links úteis:** redes sociais, formulário de contato ou reserva, parceiros ou página oficial no Instagram.
-
----
-
 **Exemplo de estrutura adicional (opcional):**
 
 ```markdown
